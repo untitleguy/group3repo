@@ -1,0 +1,2 @@
+<?php require_once __DIR__ . '/includes/auth.php'; require_login(); ?>
+<!doctype html><html lang="th"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>ใบเสร็จ | Mellow Café</title><link rel="stylesheet" href="assets/css/style.css"></head><body class="receipt-page"><div class="receipt" id="receiptArea"></div><script src="assets/js/app.js"></script></body></html>
